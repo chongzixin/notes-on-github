@@ -19,4 +19,4 @@ using VS Code's Markdown Preview tool
 
 #### Learnings
 
-- using `[TOC]` immediately gives a Table of Contents based on headers.
+- using `[TOC]` immediately gives a Table of Contents based on headers, but this doesn't display nicely on GitHub now.

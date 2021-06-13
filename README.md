@@ -1,6 +1,6 @@
 # Table of Contents
 
-[TOC]
+[Books](#books)
 
 ## Books <a name="books"></a>
 
