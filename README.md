@@ -1,12 +1,27 @@
 # Table of Contents
 
-[Books](#books)
+[TOC]
+
+<!-- Manually creating TOCs so that it displays on GitHub -->
+
+- [Books](#books)
+  - [Standing Tall](#standing-tall)
+  - [The Decision Book](#decision-book)
 
 ## Books <a name="books"></a>
 
 ---
 
-### The Decision Book
+### Standing Tall <a name="standing-tall"></a>
+
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41rQf+0zGiL._SX332_BO1,204,203,200_.jpg)
+
+Link: [Amazon](https://www.amazon.com/Standing-Tall-Chok-Tong-Years/dp/9811234396)
+
+- 4 months after he became Prime Minister, there was a terrorist hijack of SQ117. He **went to sleep**, leaving the Executive Group to run the show. They later mentioned that if he was present, there would have been an additional chain of command leading to increased decision making time.
+- Borned in 咏春，福建 - he had a pair of names. `作栋` and `振梁`. They came from the words 振作 and 栋梁.
+
+### The Decision Book <a name="decision-book"></a>
 
 ![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41VPVlw8UTL._SX310_BO1,204,203,200_.jpg)
 
