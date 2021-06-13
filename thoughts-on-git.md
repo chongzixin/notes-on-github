@@ -16,3 +16,7 @@ The upsides are obvious, so I will only list the downsides below.
 2. Cannot copy and paste images - **solved**
 using VS Code's Markdown Preview tool
 ![P1150852](/assets/P1150852.JPG)
+
+#### Learnings
+
+- using `[TOC]` immediately gives a Table of Contents based on headers.
