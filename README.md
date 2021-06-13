@@ -4,13 +4,18 @@
 
 <!-- Manually creating TOCs so that it displays on GitHub -->
 
+- [Courses](#courses)
 - [Books](#books)
   - [Standing Tall](#standing-tall)
   - [The Decision Book](#decision-book)
 
-## Books <a name="books"></a>
+<!-- ACTUAL SECTIONS -->
+
+## Courses <a name="courses"></a>
 
 ---
+
+## Books <a name="books"></a>
 
 ### Standing Tall <a name="standing-tall"></a>
 
@@ -34,3 +39,5 @@ Link: [Amazon](https://www.amazon.sg/Decision-Book-models-strategic-thinking/dp/
   - `Dogs` - low market share low growth rate - **liquidate unless there's value other than financial**
 - The Rubber Band Model - Dealing with a Dilemma
   - `what is pulling me` vs. `what is holding me`
+
+---
