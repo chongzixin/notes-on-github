@@ -39,5 +39,10 @@ Link: [Amazon](https://www.amazon.sg/Decision-Book-models-strategic-thinking/dp/
   - `Dogs` - low market share low growth rate - **liquidate unless there's value other than financial**
 - The Rubber Band Model - Dealing with a Dilemma
   - `what is pulling me` vs. `what is holding me`
-
+- The Flow Model (what makes you happy) - research shows that it has the below characteristics. 
+  - intensely focused on an activity
+  - of your own liking
+  - neither under-challenging (bore out) or over-challenging (burn out)
+  - clear objective that receives
+  - immediate feedback
 ---
