@@ -45,4 +45,10 @@ Link: [Amazon](https://www.amazon.sg/Decision-Book-models-strategic-thinking/dp/
   - neither under-challenging (bore out) or over-challenging (burn out)
   - clear objective that receives
   - immediate feedback
+- Energy Model
+  - how much time do you spend thinking of the past vs present vs future
+- AI (Appreciative Inquiry) Model
+  - concentrating on the strengths instead of on the weaknesses
+  - focusing too much on the flaws stifles the open and positive approach essential for good working practices. 
+  - basic principle is to take an idea not fully developed and to continue developing it, instead of prematurely abandoning it
 ---
