@@ -51,4 +51,9 @@ Link: [Amazon](https://www.amazon.sg/Decision-Book-models-strategic-thinking/dp/
   - concentrating on the strengths instead of on the weaknesses
   - focusing too much on the flaws stifles the open and positive approach essential for good working practices. 
   - basic principle is to take an idea not fully developed and to continue developing it, instead of prematurely abandoning it
+- The Pareto Principle
+  - 20% effort, 80% results
+- The Long Tail Model
+  - Collectively, the “rest-sellers” may be worth more than the bestsellers
+
 ---
