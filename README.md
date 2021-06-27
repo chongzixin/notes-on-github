@@ -55,5 +55,12 @@ Link: [Amazon](https://www.amazon.sg/Decision-Book-models-strategic-thinking/dp/
   - 20% effort, 80% results
 - The Long Tail Model
   - Collectively, the “rest-sellers” may be worth more than the bestsellers
+- 6 Thinking Hats
+  - **Red Hat** - emotional thinking, subjective feelings, perceptions and opinions
+  - **White Hat** - analytical, objective thinking on facts and feasibility
+  - **Black Hat** - critical thinking, risk assessment, skepticism and critique
+  - **Yellow Hat** - optimistic thinking, speculative best-case scenario
+  - **Green Hat** - creative, associative thinking, new ideas, brainstorming, constructive
+  - **Blue Hat** - structured thinking, process overview, big picture thinking. 
 
 ---
