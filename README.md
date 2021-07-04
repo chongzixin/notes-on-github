@@ -4,10 +4,12 @@
 
 <!-- Manually creating TOCs so that it displays on GitHub -->
 
-- [Courses](#courses)
-- [Books](#books)
-  - [Standing Tall](#standing-tall)
-  - [The Decision Book](#decision-book)
+- [Table of Contents](#table-of-contents)
+  - [Courses <a name="courses"></a>](#courses-)
+  - [Books <a name="books"></a>](#books-)
+    - [Standing Tall <a name="standing-tall"></a>](#standing-tall-)
+    - [The Decision Book <a name="decision-book"></a>](#the-decision-book-)
+    - [Thinking, Fast and Slow <a name="thinking-fast-and-slow"></a>](#thinking-fast-and-slow-)
 
 <!-- ACTUAL SECTIONS -->
 
@@ -62,5 +64,11 @@ Link: [Amazon](https://www.amazon.sg/Decision-Book-models-strategic-thinking/dp/
   - **Yellow Hat** - optimistic thinking, speculative best-case scenario
   - **Green Hat** - creative, associative thinking, new ideas, brainstorming, constructive
   - **Blue Hat** - structured thinking, process overview, big picture thinking. 
+
+### Thinking, Fast and Slow <a name="thinking-fast-and-slow"></a>
+
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41r2OmyhA+L._SX324_BO1,204,203,200_.jpg)
+
+Link: [Amazon](https://www.amazon.sg/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=asc_df_0141033576/?tag=googleshoppin-22&linkCode=df0&hvadid=389120532389&hvpos=&hvnetw=g&hvrand=18020406614756869676&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062515&hvtargid=pla-394582189334&psc=1)
 
 ---
