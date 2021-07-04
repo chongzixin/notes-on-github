@@ -71,4 +71,19 @@ Link: [Amazon](https://www.amazon.sg/Decision-Book-models-strategic-thinking/dp/
 
 Link: [Amazon](https://www.amazon.sg/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=asc_df_0141033576/?tag=googleshoppin-22&linkCode=df0&hvadid=389120532389&hvpos=&hvnetw=g&hvrand=18020406614756869676&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062515&hvtargid=pla-394582189334&psc=1)
 
+Summary Book: [Amazon](https://www.amazon.com/dp/B07W2X1SG6/ref=nodl_?ref_=r_sa_glf_b_0_hdrw_ss_CAAUAAA)
+
+- System One (intuitive mind)
+- System Two (analytical mind)
+- always question your intuitive mind with your analytical mind
+- people have much stronger reactions **when a statictic is framed as humans (7 in 10 humans) as compared to percentage (70%)**
+- **availability heuristic** - our mind searching for information that is most readily available, though not necessarily the most important
+  - Socrates never actually said "I know that I know nothing", we believe it because we have heard of his name and think theres a good chance he said it.
+- **cognitive ease** - a statement that is easy to read is more likely to be believed
+- **planning fallacy** - we always think everything is going to go according to plan
+- **premortem exercise** - imagine that we are 1-2 years in and we executed the plan perfectly, but it was a disaster. Describe the history of the disaster.
+- **broad framing** - take several small risks over the long term has much higher likelihood of success compared to huge risk in short term
+- arrogant experts/statements are the least trustworthy
+
+
 ---
