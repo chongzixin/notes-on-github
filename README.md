@@ -85,5 +85,17 @@ Summary Book: [Amazon](https://www.amazon.com/dp/B07W2X1SG6/ref=nodl_?ref_=r_sa_
 - **broad framing** - take several small risks over the long term has much higher likelihood of success compared to huge risk in short term
 - arrogant experts/statements are the least trustworthy
 
+### The Art of Creative Thinking
 
+- Use the stepping stones of analogy
+- Make the strange familiar, and the familiar strange
+- Widen your span of relevance
+- Practice serendipity 
+- Chance favours only the prepared mind
+- Curiosity 
+- Keep your eyes open
+- Listen for ideas
+- Reading to generate ideas
+- Keep a Notebook
+    
 ---
