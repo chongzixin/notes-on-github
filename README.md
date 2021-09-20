@@ -97,5 +97,16 @@ Summary Book: [Amazon](https://www.amazon.com/dp/B07W2X1SG6/ref=nodl_?ref_=r_sa_
 - Listen for ideas
 - Reading to generate ideas
 - Keep a Notebook
-    
+- Test your assumptions
+- Make use of your Depth Mind (intuition)
+- Do not wait for inspiration
+- Sharpen your analytical mind
+  - reframe the question: smallpox vaccinations were invented because the inventor was not thinking about “why did everyone get it”, but “why did cowpox not get it”
+- Suspend judgement - criticising too early destroys the creative process
+- Learn to tolerate ambiguity
+- Drift, wait and obey
+- Sleep on the problem
+- Working it out
+- Think creatively about your life
+
 ---
