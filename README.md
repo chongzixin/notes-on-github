@@ -10,6 +10,9 @@
     - [Standing Tall <a name="standing-tall"></a>](#standing-tall-)
     - [The Decision Book <a name="decision-book"></a>](#the-decision-book-)
     - [Thinking, Fast and Slow <a name="thinking-fast-and-slow"></a>](#thinking-fast-and-slow-)
+    - [The Art of Creative Thinking <a name="art-of-creative-thinking">](#the-art-of-creative-thinking-a-nameart-of-creative-thinking)
+    - [Invent & Wander <a name="invent-and-wander">](#invent--wander-a-nameinvent-and-wander)
+  - [- Not all these goals will be met](#--not-all-these-goals-will-be-met)
 
 <!-- ACTUAL SECTIONS -->
 
@@ -85,12 +88,18 @@ Summary Book: [Amazon](https://www.amazon.com/dp/B07W2X1SG6/ref=nodl_?ref_=r_sa_
 - **broad framing** - take several small risks over the long term has much higher likelihood of success compared to huge risk in short term
 - arrogant experts/statements are the least trustworthy
 
-### The Art of Creative Thinking
+### The Art of Creative Thinking <a name="art-of-creative-thinking">
+
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41VZtdKQBxL._SX317_BO1,204,203,200_.jpg)
+
+Link: [Amazon](https://www.amazon.com/Art-Creative-Thinking-John-Adair/dp/8175544910/)
 
 - Use the stepping stones of analogy
 - Make the strange familiar, and the familiar strange
 - Widen your span of relevance
-- Practice serendipity 
+- Practice serendipity
+  - `you are more likely to be serendipitous if you have a wide span of attention and a broad range of interests`
+  - `Being over-organized, planning your life down to the last minute like a control freak, is inimical to creativity`
 - Chance favours only the prepared mind
 - Curiosity 
 - Keep your eyes open
@@ -103,10 +112,27 @@ Summary Book: [Amazon](https://www.amazon.com/dp/B07W2X1SG6/ref=nodl_?ref_=r_sa_
 - Sharpen your analytical mind
   - reframe the question: smallpox vaccinations were invented because the inventor was not thinking about “why did everyone get it”, but “why did cowpox not get it”
 - Suspend judgement - criticising too early destroys the creative process
+  - `A person is judged not by his or her answers but by the questions they ask.`
 - Learn to tolerate ambiguity
 - Drift, wait and obey
 - Sleep on the problem
 - Working it out
 - Think creatively about your life
 
+### Invent & Wander <a name="invent-and-wander">
+
+![enter image description here](https://m.media-amazon.com/images/I/41c2WMWx0-L._SY346_.jpg)
+
+Link: [Amazon](https://www.amazon.com/Invent-Wander-Collected-Writings-Introduction-ebook/dp/B08BCCT6MW)
+
+- Growing New Businesses
+  1. can generate returns on capital investors expect
+  2. can grow to a scale where it can be significant in the context of overall company
+  3. is currently underserved and that Amazon has the capabilities needed to bring **strong customer-facing differentiation** to the marketplace
+- Making decisions
+  - some decisions can be made with data, such as where a fulfilment centre should be opened and how much savings can be obtained. 
+  - **Other decisions rely on judgement**, as the effect of consistently lowering prices have on the business over a five or ten year period cannot be estimated. `Our judgement is that relentlessly returning efficiency improvements and scale economies to customers ... creates a virtuous cycle that leads over the long term to a much more valuable Amazon.com`
+- Setting Goals - focus on customer experience, and lesser on business metrics
+  - Amazon has 452 goals - 360 have direct impact on customer experience. *revenue* is used 8 times, *free cash flow* 4 times, *net income, gross profit/margin, operating profit* are not used at all
+  - Not all these goals will be met
 ---
