@@ -10,9 +10,8 @@
     - [Standing Tall <a name="standing-tall"></a>](#standing-tall-)
     - [The Decision Book <a name="decision-book"></a>](#the-decision-book-)
     - [Thinking, Fast and Slow <a name="thinking-fast-and-slow"></a>](#thinking-fast-and-slow-)
-    - [The Art of Creative Thinking <a name="art-of-creative-thinking">](#the-art-of-creative-thinking-a-nameart-of-creative-thinking)
-    - [Invent & Wander <a name="invent-and-wander">](#invent--wander-a-nameinvent-and-wander)
-  - [- Not all these goals will be met](#--not-all-these-goals-will-be-met)
+    - [The Art of Creative Thinking <a name="art-of-creative-thinking"></a>](#the-art-of-creative-thinking-)
+    - [Invent & Wander <a name="invent-and-wander"></a>](#invent--wander-)
 
 <!-- ACTUAL SECTIONS -->
 
@@ -88,7 +87,7 @@ Summary Book: [Amazon](https://www.amazon.com/dp/B07W2X1SG6/ref=nodl_?ref_=r_sa_
 - **broad framing** - take several small risks over the long term has much higher likelihood of success compared to huge risk in short term
 - arrogant experts/statements are the least trustworthy
 
-### The Art of Creative Thinking <a name="art-of-creative-thinking">
+### The Art of Creative Thinking <a name="art-of-creative-thinking"></a>
 
 ![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41VZtdKQBxL._SX317_BO1,204,203,200_.jpg)
 
@@ -119,7 +118,7 @@ Link: [Amazon](https://www.amazon.com/Art-Creative-Thinking-John-Adair/dp/817554
 - Working it out
 - Think creatively about your life
 
-### Invent & Wander <a name="invent-and-wander">
+### Invent & Wander <a name="invent-and-wander"></a>
 
 ![enter image description here](https://m.media-amazon.com/images/I/41c2WMWx0-L._SY346_.jpg)
 
@@ -135,4 +134,5 @@ Link: [Amazon](https://www.amazon.com/Invent-Wander-Collected-Writings-Introduct
 - Setting Goals - focus on customer experience, and lesser on business metrics
   - Amazon has 452 goals - 360 have direct impact on customer experience. *revenue* is used 8 times, *free cash flow* 4 times, *net income, gross profit/margin, operating profit* are not used at all
   - Not all these goals will be met
+
 ---
