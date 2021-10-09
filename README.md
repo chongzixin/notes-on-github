@@ -134,5 +134,6 @@ Link: [Amazon](https://www.amazon.com/Invent-Wander-Collected-Writings-Introduct
 - Setting Goals - focus on customer experience, and lesser on business metrics
   - Amazon has 452 goals - 360 have direct impact on customer experience. *revenue* is used 8 times, *free cash flow* 4 times, *net income, gross profit/margin, operating profit* are not used at all
   - Not all these goals will be met
-
+- Invention - outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right.
+  
 ---
