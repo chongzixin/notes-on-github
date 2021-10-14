@@ -135,5 +135,25 @@ Link: [Amazon](https://www.amazon.com/Invent-Wander-Collected-Writings-Introduct
   - Amazon has 452 goals - 360 have direct impact on customer experience. *revenue* is used 8 times, *free cash flow* 4 times, *net income, gross profit/margin, operating profit* are not used at all
   - Not all these goals will be met
 - Invention - outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right.
-  
+- `Outsized returns often comes with betting against conventional wisdom, except conventional wisdom is usually right`.
+- Fending off Day 2
+  - A good process serves you so that you can serve customers. But if not careful, the process can become the thing.
+  - Good inventors and designers deeply understand their customer. *They spend tremendous energy developing the intuition*, through anecdotes than only the averages found on surveys.
+- Building a Culture of High Standards
+  1. Recognise what good looks like in the domain
+  2. Have a realistic expectation of how hard it should be
+  - E.g. Writing a memo - when a memo isn't great, it's usually not because the writer cannot recognise the high standard, but instead under-estimating that a good memo can take weeks or more to write.
+- Bezos Day One Fund
+  - `All my best decisions in business and in life have been made with heart, intuition, and guts, not analysis`
+
+### Good Strategy / Bad Strategy <a name="good-strategy-bad-strategy"></a>
+
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41Qh1Do98LL._SX296_BO1,204,203,200_.jpg)
+
+Link: [Amazon](https://www.amazon.sg/Good-Strategy-Bad-difference-matters/dp/1781251541)
+
+- Good strategy
+  - does more than urge us forward toward a goal or vision. It **honestly acknowledges the challenges being faced and provides an approach to overcoming them**. The greater the challenge, the more a good strategy focuses and cooridnates efforts to achieve a powerful competitive punch or problem-solving effect.
+  - **contains three elements - diagnosis, guiding policy, coherent action**
+
 ---
