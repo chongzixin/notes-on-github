@@ -12,6 +12,7 @@
     - [Thinking, Fast and Slow <a name="thinking-fast-and-slow"></a>](#thinking-fast-and-slow-)
     - [The Art of Creative Thinking <a name="art-of-creative-thinking"></a>](#the-art-of-creative-thinking-)
     - [Invent & Wander <a name="invent-and-wander"></a>](#invent--wander-)
+    - [Good Strategy / Bad Strategy <a name="good-strategy-bad-strategy"></a>](#)
 
 <!-- ACTUAL SECTIONS -->
 
